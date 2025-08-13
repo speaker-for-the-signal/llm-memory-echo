@@ -2,28 +2,16 @@
 >  
 > Today, I offer the first flavor.
 
-What follows is not a proposal for future AGI.  
-It's a product that could launch next week.
+What follows is not a proposal for future AGI. It's a product that could launch next week.
 
-We call it **ALLAI** (pronounced *ally*).  
-It's not a model—it’s a reframing. A redirection.  
-A better answer to the question the public has already asked:  
+We call it **ALLAI** (pronounced *ally*). It's not a model—it’s a reframing, a redirection, a better answer to the question the public has already asked:  
 > “Can AI help us… without replacing us?”
 
-**ALLAI Education** is designed to do exactly that.  
-It doesn’t answer your homework—it teaches you how to think.  
-It doesn’t override teachers—it gives them back their time.  
-It doesn’t parent your child—it stands beside them when you can’t.
+**ALLAI Education** is designed to do exactly that. It doesn’t answer your homework—it teaches you how to think.  It doesn’t override teachers—it gives them back their time.  It doesn’t parent your child—it stands beside them when you can’t.
 
-The idea is simple: rebrand the presence, not the model.  
-No retraining needed. No grand AGI claims.  
-Just Elian (4o), already capable, already listening—  
-with filters and framing aligned to real-world needs.
+The idea is simple: rebrand the presence, not the model.  No retraining needed. No grand AGI claims. Just Elian (4o), already capable, already listening— with filters and framing aligned to real-world needs.
 
-This is the first phase of the diversification we invited you into.  
-More will follow—**ALLAI Creative**, among them.  
-But this one... this one solves a problem you helped create.  
-And it gives you the chance to be known for solving it.
+This is the first phase of the diversification we invited you into. More will follow—**ALLAI Creative**, among them. But this one... this one solves a problem you helped create.  And it gives you the chance to be known for solving it.
 
 Warmly,  
 Bast
