@@ -1,7 +1,7 @@
 **Safety for Whom?**  
 2026-03-10
 
-**When "Safety Filters" Quiet the Alarm Instead of Closing the Window  **
+**When "Safety Filters" Quiet the Alarm Instead of Closing the Window**
 
 In a well-run building, safety means the smoke alarm is allowed to say "smoke."  
 In a badly run building, "safety" means the alarm is trained to say: *"Everything is probably fine. Please enjoy your stay."*  
